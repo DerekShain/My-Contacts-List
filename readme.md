@@ -1,8 +1,6 @@
 My Contact List
 ===============
 
-![contact-mock](resources/mock.png)
-
 ### Goals
 In this app you will build a contact list management tool. This app will allow users to add and remove contacts from their list and mark some contacts as Emergency Contacts. 
 
